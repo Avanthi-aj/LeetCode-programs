@@ -29,4 +29,4 @@ class Solution {
         }
         return false;
     }
-}Valid Parentheses
+}
